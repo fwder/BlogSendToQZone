@@ -1,0 +1,2 @@
+# BlogSendToQZone
+随便码的一个使用Python的Selenium库的博客与QQ空间同步的脚本
